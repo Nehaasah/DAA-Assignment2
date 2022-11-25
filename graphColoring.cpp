@@ -52,8 +52,6 @@ int main(){
 		{ 1, 0, 1, 0 },
 	};
 	int m1=3;
-	
-
 
     // TEST CASE 2 --> GRAPH 1, When M = 2
     int graph2[V][V] = {
