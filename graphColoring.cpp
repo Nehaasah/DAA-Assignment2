@@ -65,7 +65,7 @@ int main(){
 	int m2=2;
 
 
-    // TEST CASE 2 --> Another GRAPH 2 ,When M=3
+    // TEST CASE 2 --> Another GRAPH 2 ,When M=2
 	int graph3[V][V] = {
 		{ 0, 1, 1, 1 },
 		{ 1, 0, 0, 0 },
