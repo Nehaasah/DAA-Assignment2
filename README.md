@@ -23,7 +23,7 @@ Repeat this step until all the vertices are colored.
 
 
 
-![image](https://user-images.githubusercontent.com/102512172/204014803-70c23eb2-5cb7-40dc-beb9-de2cf8867551.png)
+![image](https://user-images.githubusercontent.com/102512172/204027899-085b4c24-1519-4c74-baf5-741bf32c82d6.png)
 
 
 Test Case 1 -- > Here for Graph1  when M = 3 ; 3 colors are allocated to the vertices as per the graph coloring Rules without any difficulty      
